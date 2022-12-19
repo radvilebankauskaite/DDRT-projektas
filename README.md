@@ -1,4 +1,4 @@
-# DDRT-projektas
+# DDRT projektas
 
 # Motyvacija
 Projekto tikslas yra automatizuoti paskolų išdavimo sprendimo pagrindimo procesą, nustatant rizikingus klientus, kuriems neturėtų būti suteiktos paskolos.
